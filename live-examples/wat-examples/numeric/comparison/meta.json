@@ -1,0 +1,46 @@
+{
+    "pages": {
+        "eq": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/comparison/eq.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/comparison/eq.js",
+            "fileName": "eq.html",
+            "title": "Wat Demo: eq",
+            "type": "wat"
+        },
+        "ne": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/comparison/ne.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/comparison/ne.js",
+            "fileName": "ne.html",
+            "title": "Wat Demo: ne",
+            "type": "wat"
+        },
+        "gt": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/comparison/gt.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/comparison/gt.js",
+            "fileName": "gt.html",
+            "title": "Wat Demo: gt",
+            "type": "wat"
+        },
+        "lt": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/comparison/lt.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/comparison/lt.js",
+            "fileName": "lt.html",
+            "title": "Wat Demo: lt",
+            "type": "wat"
+        },
+        "ge": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/comparison/ge.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/comparison/ge.js",
+            "fileName": "ge.html",
+            "title": "Wat Demo: ge",
+            "type": "wat"
+        },
+        "le": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/comparison/le.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/comparison/le.js",
+            "fileName": "le.html",
+            "title": "Wat Demo: le",
+            "type": "wat"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "pages": {
+        "and": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/binary/and.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/binary/and.js",
+            "fileName": "and.html",
+            "title": "Wat Demo: and",
+            "type": "wat"
+        },
+        "or": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/binary/or.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/binary/or.js",
+            "fileName": "or.html",
+            "title": "Wat Demo: or",
+            "type": "wat"
+        },
+        "xor": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/binary/xor.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/binary/xor.js",
+            "fileName": "xor.html",
+            "title": "Wat Demo: xor",
+            "type": "wat"
+        },
+        "shl": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/binary/shl.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/binary/shl.js",
+            "fileName": "shl.html",
+            "title": "Wat Demo: shl",
+            "type": "wat"
+        },
+        "shr": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/binary/shr.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/binary/shr.js",
+            "fileName": "shr.html",
+            "title": "Wat Demo: shr",
+            "type": "wat"
+        },
+        "rotl": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/binary/rotl.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/binary/rotl.js",
+            "fileName": "rotl.html",
+            "title": "Wat Demo: rotl",
+            "type": "wat"
+        },
+        "rotr": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/binary/rotr.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/binary/rotr.js",
+            "fileName": "rotr.html",
+            "title": "Wat Demo: rotr",
+            "type": "wat"
+        },
+        "clz": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/binary/clz.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/binary/clz.js",
+            "fileName": "clz.html",
+            "title": "Wat Demo: clz",
+            "type": "wat"
+        },
+        "ctz": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/binary/ctz.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/binary/ctz.js",
+            "fileName": "ctz.html",
+            "title": "Wat Demo: ctz",
+            "type": "wat"
+        },
+        "popcnt": {
+            "watExampleCode": "./live-examples/wat-examples/numeric/binary/popcnt.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/binary/popcnt.js",
+            "fileName": "popcnt.html",
+            "title": "Wat Demo: popcnt",
+            "type": "wat"
+        }
+    }
+}

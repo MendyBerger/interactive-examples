@@ -9,5 +9,5 @@ WebAssembly.instantiateStreaming(fetch(url), { console }).then(
 );
 
 function numToBin(num) {
-  return num.toString(2).padStart(8, "0");
+  return (num >>> 0).toString(2).padStart(8, "0");
 }

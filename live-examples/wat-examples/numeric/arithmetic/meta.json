@@ -39,71 +39,71 @@
 
         ,
         "abs": {
-            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/abs.wat",
-            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/abs.js",
+            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/abs.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/abs.js",
             "fileName": "abs.html",
             "title": "Wat Demo: abs",
             "type": "wat"
         },
         "neg": {
-            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/neg.wat",
-            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/neg.js",
+            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/neg.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/neg.js",
             "fileName": "neg.html",
             "title": "Wat Demo: neg",
             "type": "wat"
         },
         "ceil": {
-            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/ceil.wat",
-            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/ceil.js",
+            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/ceil.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/ceil.js",
             "fileName": "ceil.html",
             "title": "Wat Demo: ceil",
             "type": "wat"
         },
         "floor": {
-            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/floor.wat",
-            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/floor.js",
+            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/floor.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/floor.js",
             "fileName": "floor.html",
             "title": "Wat Demo: floor",
             "type": "wat"
         },
         "trunc": {
-            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/trunc.wat",
-            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/trunc.js",
+            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/trunc.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/trunc.js",
             "fileName": "trunc.html",
             "title": "Wat Demo: trunc",
             "type": "wat"
         },
         "nearest": {
-            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/nearest.wat",
-            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/nearest.js",
+            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/nearest.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/nearest.js",
             "fileName": "nearest.html",
             "title": "Wat Demo: nearest",
             "type": "wat"
         },
         "sqrt": {
-            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/sqrt.wat",
-            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/sqrt.js",
+            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/sqrt.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/sqrt.js",
             "fileName": "sqrt.html",
             "title": "Wat Demo: sqrt",
             "type": "wat"
         },
         "min": {
-            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/min.wat",
-            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/min.js",
+            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/min.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/min.js",
             "fileName": "min.html",
             "title": "Wat Demo: min",
             "type": "wat"
         },
         "max": {
-            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/max.wat",
-            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/max.js",
+            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/max.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/max.js",
             "fileName": "max.html",
             "title": "Wat Demo: max",
             "type": "wat"
         },
         "copysign": {
-            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/copysign.wat",
-            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/copysign.js",
+            "watExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/copysign.wat",
+            "jsExampleCode": "./live-examples/wat-examples/numeric/arithmetic/f/copysign.js",
             "fileName": "copysign.html",
             "title": "Wat Demo: copysign",
             "type": "wat"

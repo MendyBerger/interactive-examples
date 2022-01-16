@@ -1,8 +1,13 @@
 var url = "{%wasm-url%}";
 WebAssembly.instantiateStreaming(fetch(url), { console }).then(
   (result) => {
-    const subtract = result.instance.exports.subtract;
+    const shift_left = result.instance.exports.shift_left;
 
-    console.log("10 - 3 = " + subtract(10, 3));
+    let res = shift_left(0b11100000_00000000_00000000_00000000, 1);
+    console.log(numToBin(res));
   }
 );
+
+function numToBin(num) {
+  return (num >>> 0).toString(2).padStart(32, "0").match(/.{1,8}/g).join("_");
+}

@@ -1,12 +1,12 @@
 (module
 
-  (func (export "subtract") (param $a i32) (param $b i32) (result i32)
-    ;; load both numbers onto the stack
-    local.get $a
-    local.get $b
+  (func (export "rotate_right") (param $num i32) (param $by i32) (result i32)
+    ;; load the number to rotate and the by how many spots
+    local.get $num
+    local.get $by
 
-    ;; subtract on number from the and return the result
-    i32.sub
+    ;; rotate and return the result
+    i32.rotr
   )
 
 )
